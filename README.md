@@ -3,4 +3,4 @@
 
 VirusTotal Scan: **0 / 61 — No security vendors flagged this file as malicious.**
 
-[🔐 View VirusTotal Scan](https://www.virustotal.com/gui/file/6cfd93c8b55f61e420439402a7b7dc80dd7e43f025e2052773c5701d0dc8f1df/detection)
+[🔐 View VirusTotal Scan](https://www.virustotal.com/gui/file/68190cb36e9b4a7e8a4316c914e555067ed63c1b3ff3dedba249d23e00205af0/detection)
